@@ -1,0 +1,20 @@
+[[fields]]
+name = "signed"
+offset = 0
+data_type = "I32"
+comment = "signed field"
+endianness = "Little"
+
+[[fields]]
+name = "unsigned"
+offset = 4
+data_type = "U32"
+comment = ""
+endianness = "Little"
+
+[[fields]]
+name = "unsigned 64"
+offset = 8
+data_type = "U64"
+comment = "mdr wtf"
+endianness = "Little"
