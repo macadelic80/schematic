@@ -1,5 +1,6 @@
 mod app;
 mod binary_data;
+mod hex_editor;
 mod schema;
 mod ui;
 
